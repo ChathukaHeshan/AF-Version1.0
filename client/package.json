@@ -10,7 +10,7 @@
     "eject": "react-scripts eject"
   },
   "author": "",
-"proxy": "http://localhost:5001",
+"proxy": "http://localhost:5000",
   "license": "ISC",
   "dependencies": {
     "@ant-design/icons": "^4.6.2",
