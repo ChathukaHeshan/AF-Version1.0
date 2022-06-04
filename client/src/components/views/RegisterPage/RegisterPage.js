@@ -25,7 +25,7 @@ function RegisterPage(props) {
                 /*buttonStyle="solid"*/
             >
                 <Radio.Button value="0">Supervisor</Radio.Button>
-                <Radio.Button value="1">Studentr</Radio.Button>
+                <Radio.Button value="1">Student</Radio.Button>
                 <Radio.Button value="2">Panel Member</Radio.Button>
             </Radio.Group>
 

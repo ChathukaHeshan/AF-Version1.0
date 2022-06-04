@@ -36,7 +36,7 @@ function App() {
                 {/*<section>*/}
                 <div style={{ paddingTop: '100px', minHeight: 'calc(100vh - 60px)' }}>
                     <Switch >
-                        <Route exact path="/" component={LandingPage} />
+                        <Route exact path="/home" component={LandingPage} />
                         <Route path="/login" component={LoginPage} />
                         <Route path="/register" component={RegisterPage} />
                         <Route path="/uploadTopic" component={UploadTopicPage} />
